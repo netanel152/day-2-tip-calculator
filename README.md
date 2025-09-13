@@ -1,8 +1,5 @@
-# day-2-tip-calculator
+# Day-2-tip-calculator
 A simple tip calculator, project for Day 2 of the '100 Days of Code' Python challenge.
-
-
-# Day 2: Tip Calculator
 
 ## About
 This project is a simple command-line tip calculator, created as part of the '100 Days of Code' Python bootcamp. It calculates the amount each person should pay, including a selected tip percentage.
